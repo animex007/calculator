@@ -1,1 +1,1 @@
-# calculator
+# calculator used for mathematical calculations.
